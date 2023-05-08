@@ -4,3 +4,5 @@ const productId=$page.params.productId
 </script>
 
 <h1>Details about product {productId}</h1>
+
+
